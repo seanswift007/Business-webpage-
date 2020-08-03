@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>STS Technologies</h1>
+<h1>STS Technologies</h1>             <h2>Aspiring Cyber Security Professional</h2>
 
 <p>Welcome to my website.</p>
 
